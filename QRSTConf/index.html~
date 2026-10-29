@@ -1,0 +1,172 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : TwoColours 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20130811
+
+*** Redesigned by Hadi Salmasian for the Conference on Lie Theory and its Interactions with Geometry and Combinatorics ***
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+</head>
+<body>
+<div id="logo" class="container">
+	<h2><font color="#A20B1F">Conference on Lie Theory and its</font></h2>
+	<h2><font color="#A20B1F"> Interactions with Geometry and Combinatorics</font></h2>
+		<h2><font color="#A20B1F">November 11&ndash;12, 2017</font></h2>
+
+</div>
+<div id="page" class="container">
+	<div id="content">
+		<div class="title">
+			<p>
+			<font size="5em">The conference will take place in 
+Room 1006 of the <a href="https://socialsciences.uottawa.ca/about-faculty/fss-building" target="_top">FSS building</a> of the <a href="https://www.uottawa.ca/en" target="_top"> University of Ottawa</a>. The conference is preceded by a colloquium talk by Siddhartha Sahi on Friday November 10 at 4:00 p.m.</font>
+		</p>
+<p>			
+<span class="container"><font size="5em">
+<b>Conference organizers:</b> Siddhartha Sahi, <a href="http://mysite.science.uottawa.ca/hsalmasi/" target="_top">Hadi Salmasian</a>.
+		</font>
+		</span>
+		</p>
+
+<p>			
+<span class="container"><font size="5em">
+<b>Acknowledgement.</b> 
+The workshop is sponsored by funding from the National Science Foundation and the University of Ottawa.
+</font>
+</span>
+</p>
+
+		</div>
+	</div>
+
+	
+
+
+
+</div>
+
+
+
+
+<div id="page" class="container">
+	<div id="content">
+		<div class="title" class="container">
+			<h2>Schedule of Talks</h2>
+		</div>
+<div id="contenta">
+
+<table cols="3" width="100%" cellpadding="0">
+	<tr>
+        	<td width="10%" style="padding-bottom:40px;"><B>Date</B></td>
+                <td width="21%" style="padding-bottom:40px;"><B>Speaker</B></td>
+                <td style="padding-bottom:40px;"><B>Title and Abstract (hover your mouse pointer on titles)</B></td>
+	</tr>
+
+	<tr>
+                <td>Nov 10, 4:00 p.m.</td>
+                <td>Siddhartha Sahi (Rutgers University)</td>
+                <td>
+			<a href="#" onclick="return false;" class="tooltip">
+    			TBA
+    			<span>
+       			<b>Abstract</b>: TBA
+   			</span>
+			</a>
+		</td>
+	</tr>
+
+
+	<tr>
+                <td>Nov 11, 9:00 a.m.</td>
+                <td>Weiqiang Wang (University of Virginia)</td>
+                <td>
+			<a href="#" onclick="return false;" class="tooltip">
+    			TBA
+			<span>
+       			<b>Abstract</b>: TBA
+    			</span>
+			</a>
+		</td>
+	</tr>
+
+	<tr>
+                <td>Nov 11, 4:00 p.m.</td>
+                <td>Vera Seganova (UC Berkeley)</td>
+                <td>
+			<a href="#" onclick="return false;" class="tooltip">
+    			TBA
+			<span>
+       			<b>Abstract</b>: TBA
+    			</span>
+			</a>
+		</td>
+	</tr>
+
+	<tr>
+                <td>Nov 12, 9:00 a.m.</td>
+                <td>Nicolas Guay (University of Alberta)</td>
+                <td>
+			<a href="#" onclick="return false;" class="tooltip">
+    			TBA
+			<span>
+       			<b>Abstract</b>: TBA
+    			</span>
+			</a>
+		</td>
+	</tr>
+
+
+	<tr>
+                <td>Nov 12, 4:00 p.m.</td>
+                <td>Alexander Alldridge (UC Berkeley)</td>
+                <td>
+			<a href="#" onclick="return false;" class="tooltip">
+    			TBA
+			<span>
+       			<b>Abstract</b>: TBA
+    			</span>
+			</a>
+		</td>
+	</tr>
+
+
+
+
+
+
+
+
+</table>
+
+
+
+</div>  </div>
+                  
+ 
+
+
+ 
+ 
+
+<div id="copyright" class="container">
+	<p>&copy; 2017 <a target="_top" href="http://mysite.science.uottawa.ca/hsalmasi/">Hadi Salmasian</a> | All rights reserved | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a></p>
+</div>
+</body>
+</html>
