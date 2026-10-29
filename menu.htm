@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigation | Hadi Salmasian</title>
+    <!-- A navigation-only frame should not appear as a standalone Google result. -->
+    <meta name="robots" content="noindex">
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+
+        body {
+            font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+            background-color: #A4A4A4;
+        }
+
+        .top-bar {
+            box-sizing: border-box;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            width: 100%;
+            height: 88px;
+            padding: 0 24px;
+            border-bottom: 1px solid #858585;
+        }
+
+        .site-name {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            color: #3b1717;
+            font-size: 1.62rem; /* 20% larger than 1.35rem */
+            font-weight: bold;
+            white-space: nowrap;
+            text-decoration: none;
+        }
+
+        .site-name:hover { text-decoration: underline; }
+
+        nav {
+            position: relative;
+            z-index: 1;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            gap: 8px;
+            min-width: 0;
+            max-width: 100%;
+            overflow-x: auto;
+            white-space: nowrap;
+        }
+
+        nav a {
+            display: inline-block;
+            flex: 0 0 auto;
+            padding: 10px 13px;
+            border-radius: 6px;
+            background-color: #8a0808;
+            color: #fff;
+            font-size: 1.2rem; /* 20% larger than 1rem */
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        nav a:hover,
+        nav a:focus-visible {
+            background-color: #fe2e2e;
+            color: #fff;
+        }
+
+        /* On narrower screens, use two rows within the same gray bar.
+           This prevents the larger navigation buttons from covering the centered name. */
+        @media (max-width: 1120px) {
+            .site-name {
+                top: 6px;
+                transform: translateX(-50%);
+            }
+            nav {
+                position: absolute;
+                right: 24px;
+                bottom: 6px;
+                max-width: calc(100% - 48px);
+            }
+        }
+
+        @media (max-width: 650px) {
+            .top-bar { padding: 0 12px; }
+            .site-name { font-size: 1.26rem; } /* 20% larger than 1.05rem */
+            nav { right: 12px; bottom: 7px; max-width: calc(100% - 24px); gap: 5px; }
+            nav a { padding: 7px 10px; font-size: 1.08rem; } /* 20% larger than .9rem */
+        }
+    </style>
+</head>
+<body>
+    <header class="top-bar">
+        <a class="site-name" href="main.htm" target="main">Hadi Salmasian</a>
+        <nav aria-label="Main navigation">
+            <a href="main.htm" target="main">Home</a>
+            <a href="courses.htm" target="main">Teaching</a>
+            <a href="pub.htm" target="main">Publications</a>
+            <a href="resume.htm" target="main">My CV</a>
+        </nav>
+    </header>
+</body>
+</html>
