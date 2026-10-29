@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <link rel="SHORTCUT ICON" href="../algebra.ico">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Ottawa-Carleton Algebra Seminar" />
+	<meta name="keywords" content="algebra,seminar,math,ottawa,carleton" />
+	<meta name="author" content="Alistair Savage" />
+	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz|Droid+Sans' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" type="text/css" media="all" href="inland.css" />
+	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
+	<title>Ottawa-Carleton Joint Algebra Seminar</title>
+</head>
+
+<body>
+<div id="wrapper960" class="clearfix">
+	<div id="header" class="clearfix">
+		<div id="sitetitle" class="clearfix">
+			<h1><a href="2012F.html">Ottawa-Carleton joint algebra seminar (Fall 2013)</a></h1>
+		</div>
+
+		<div id="nav" class="clearfix">
+			<ul>
+				<li><a href="http://www.mathstat.uottawa.ca">Ottawa math</a></li>
+				<li><a href="http://math.carleton.ca/">Carleton math</a></li>
+				<li><a href="http://mysite.science.uottawa.ca/algebra/index.html">algebra homepage</a></li>
+				<li><a href="http://www.protection.uottawa.ca/en/shuttlecarleton.html">shuttle</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="slider-wrapper">
+		<div id="slider" class="nivoSlider">
+			<img src="images/slider0.jpg" alt="" />
+			<img src="images/slider1.jpg" alt="" />
+			<img src="images/slider2.jpg" alt="" />
+			<img src="images/slider3.jpg" alt="" />
+		</div>
+	</div>
+
+	<div id="content" class="clearfix shadow">
+		<h2>Time and location</h2>
+                <p>The Ottawa-Carleton joint algebra seminar meets during the academic year approximately once per week at either The University of Ottawa or Carleton University.  Unless otherwise indicated, the seminar takes place on Fridays, 14:30-15:20 at the following location:</p>
+                <ul style="list-style: none;">
+                  <li style="list-style: none; margin-left:5px"><i>University of Ottawa:</i>&nbsp; KED B005 (seminar room of the Department)
+                  <li style="list-style: none; margin-left:5px"><i>Carleton University:</i>&nbsp; MacPhail room  HP ****.
+                </ul>
+
+                <p>For information on the seminar in past semesters, click <a href="http://mysite.science.uottawa.ca/algebra/activity.html">here</a>.  To schedule a talk, please contact <A target="_top"HREF="http://mysite.science.uottawa.ca/hsalmasi/">Hadi Salmasian</A>.</p>
+        </div>
+
+	<div id="content" class="clearfix shadow">		
+		<h2>Talks</h2>
+
+                <p>For a complete listing of all talks at the University of Ottawa, click <a href="http://www.mathstat.uottawa.ca/research/talks_en.html">here</a>.</p>
+
+                <table cols="3" width="100%" cellpadding="30">
+                <tr>
+                  <td width="20%"><B>Date</B>
+                  <td width="25%"><B>Speaker</B>
+                  <td><B>Title (click on titles to show/hide abstracts)</B>
+
+        <tr>
+                  <td>Jan. 15 (O)</td>
+                  <td>Piotr Maciak (EPFL)</td>
+                  <td>
+                    <div id="SeeBillig" class="openclose" style="display:block" onclick="OpenClose('HideBillig','SeeBillig');">
+                      <a>Bounds for the Euclidean minima of number fields and function fields.</a>
+                    </div>
+                    <div id="HideBillig" class="openclose" style="display:none" onclick="CloseOpen('HideBillig','SeeBillig');">
+                      <a>Bounds for the Euclidean minima of number fields and function fields.</a>
+                      <br><br>
+                      <i>Abstract:</i>
+The Euclidean division is a basic tool when dealing with the ordinary integers. It does not extend to rings of integers of algebraic number fields in general. It is natural to ask how to measure the "deviation" from the Euclidean property, and this leads to the notion of Euclidean minimum. The case of totally real number fields is of special interest, in particular because of a conjectured upper bound (conjecture attributed to Minkowski). The talk will present some recent results concerning abelian fields of prime power conductor. We will also define Euclidean minima for function fields and give some bounds for this invariant. We furthermore show that the results are analogous to those obtained in the number field case.
+                      <br>&nbsp;
+                    </div>
+                  </td>
+ </tr>
+ 
+ <br>
+
+<tr>
+                  <td>Feb 7 (O)</td>
+                  <td>R. Venkatesh (CRM)</td>
+                  <td>
+                    <div id="SeeVenk" class="openclose" style="display:block" onclick="OpenClose('HideVenk','SeeVenk');">
+                      <a>Unique factorization of tensor products for Kac-Moody algebras.</a>
+                    </div>
+                    <div id="HideVenk" class="openclose" style="display:none" onclick="CloseOpen('HideVenk','SeeVenk');">
+                      <a>Unique factorization of tensor products for Kac-Moody algebras.</a>
+                      <br><br>
+                      <i>Abstract:</i>
+                     Suppose V is a finite dimensional representation of a complex finite dimensional simple Lie algebra that can be written as a tensor product of irreducible representations. A theorem of C.S. Rajan states that the irreducible factors that occur in the tensor product factorization of V are uniquely determined, up to reordering, by the isomorphism class of  V. I will present an elementary proof of Rajan's theorem, which generalizes with no extra effort to infinite dimensional (Kac-Moody) Lie algebras. This is joint work with S.Viswanath.
+                      <br>&nbsp;
+                    </div>
+                  </td>
+ </tr>
+
+
+
+
+<tr>
+                  <td>Feb 14 (O)</td>
+                  <td>Mohammad Bardestani (CRM)</td>
+                  <td>
+                    <div id="SeeBardes" class="openclose" style="display:block" onclick="OpenClose('HideBardes','SeeBardes');">
+                      <a>On the minimal degree of faithful representations of Chevalley groups.</a>
+                    </div>
+                    <div id="HideBardes" class="openclose" style="display:none" onclick="CloseOpen('HideBardes','SeeBardes');">
+                      <a>On the minimal degree of faithful representations of Chevalley groups.</a>
+                      <br><br>
+                      <i>Abstract:</i>
+                       Motivated by a question in additive combinations, we will study the minimal degree of all faithful representations of Chevalley groups, which extends the previous work of Bourgain and Gamburd. This is a joint work with Camelia Karimianpour, Keivan Mallahi-Karai and Hadi Salmasian. 
+                      <br>&nbsp;
+                    </div>
+                  </td>
+ </tr>
+
+<tr>
+                  <td>Feb 18 (O)</td>
+                  <td>Mathieu Huruguen (UBC)</td>
+                  <td>
+                    <div id="SeeHu" class="openclose" style="display:block" onclick="OpenClose('HideHu','SeeHu');">
+                      <a>TBA</a>
+                    </div>
+                    <div id="HideHu" class="openclose" style="display:none" onclick="CloseOpen('HideHu','SeeHu');">
+                      <a>TBA</a>
+                      <br><br>
+                      <i>Abstract:</i>
+                      TBA<br><b>Time and location: 2:30 pm in KED B015</b> 
+                      <br>&nbsp;
+                    </div>
+                  </td>
+ </tr>
+
+<tr>
+                  <td>Mar 7 (O)</td>
+                  <td>Alistair Savage (Ottawa)</td>
+                  <td>
+                    <div id="SeeAlis" class="openclose" style="display:block" onclick="OpenClose('HideAlis','SeeAlis');">
+                      <a>TBA</a>
+                    </div>
+                    <div id="HideAlis" class="openclose" style="display:none" onclick="CloseOpen('HideAlis','SeeAlis');">
+                      <a>TBA</a>
+                      <br><br>
+                      <i>Abstract:</i>
+                      TBA 
+                      <br>&nbsp;
+                    </div>
+                  </td>
+ </tr>
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+                   </table>
+		<p><b>(O) = uOttawa, (C) = Carleton</b>
+	</div>
+
+
+      <p>
+
+	<div id="footer" class="shadow">
+		<p>&copy; 2013 <a href="http://www.mathstat.uottawa.ca/~asavag2">Alistair Savage</a> | <a href="http://andreasviklund.com/templates/inland/">Template design</a> by <a href="http://andreasviklund.com/">andreasviklund.com</a></p>
+	</div>
+</div>
+
+<script type="text/javascript">
+	$(window).load(function() {
+		$('#slider').nivoSlider();
+	});
+</script>
+<script type="text/JavaScript" src="js/main.js"></script>
+</body>
+</html> 

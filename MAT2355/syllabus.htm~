@@ -1,0 +1,312 @@
+<body bgcolor="#fdf5d3">
+<style type="text/css">
+table {
+border-width:2px;border-spacing:0px;border-collapse:collapse;border-color:black;margin-right:10px;margin-left:10px;
+}
+td{
+border-width:1px;padding:8px;border-style:solid;border-color:black;font-size:.8em;
+}
+td.section{
+text-align:center;border-width:1px;padding:6px;border-style:solid;border-color:black;
+font-size:.8em;
+}
+td.assignment{
+font-size:.8em;
+}
+p.leftindent{
+font-size: .9em;
+position:relative;left:1em;
+width:98%;
+}
+li.books{
+font-size:.9em;
+width:98%;
+}
+</style>
+
+<h3 style="position:relative;margin-top:20pt;" align="center">Syllabus</h3>
+
+<p class="leftindent">
+The Recommended Exercises are for further practice only. They will help you better
+understand the key concepts of the course. You should work on the problems 
+associated to each lecture <u>before the following lecture</u>. The hand-in assignments
+will be posted on Virtual Campus.
+
+</p>
+
+
+<table align="center" >
+<tr>
+<td width="10%" style="text-align:center;">
+<b>&nbsp;&nbsp;Date&nbsp;&nbsp;</b>
+</td>
+<td align="center" width="25%">
+<b>Section</b>
+</td>
+<td style="text-align:center;" width="30%">
+<b>Topics</b>
+</td>
+<td><b>Recommended Exercises for Further Practice</b> </td>
+</tr>
+
+
+
+<tr>
+<td>Sep 8</td>
+<td class="section">&nbsp;</td>
+<td>Problems and paradoxes.</td>
+<td>
+&nbsp;</td>
+</tr>
+
+<tr>
+<td>Sep 12</td>
+<td class="section">Notes, 1.1</td>
+<td>Euclidean space, Euclid's postulates, analytic geometry. </td>
+<td>1.3.2</td>
+</tr>
+
+<tr>
+<td>Sep 15</td>
+<td class="section">Notes, 1.2&ndash;1.6</td>
+<td>Definition of an isometry, congruence, reflections, translations, rotations.</td>
+<td>1.2.1, 1.2.2, 1.4.1, 1.5.1, 1.6.1</td>
+</tr>
+
+
+<tr>
+<td>Sep 19</td>
+<td class="section">Notes</td>
+<td>
+Basic properties of isometries, orientation.</td>
+<td>1.6.2</td>
+</tr>
+
+
+
+
+
+<tr>
+<td>Sep 22</td>
+<td class="section">Notes</td>
+<td>Complex numbers and isometries of <i>R</i><sup>2</sup>.
+isoperimetric inequality.
+<br>
+<b>First Assignment Due</b></td>
+<td>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td>Sep 26</td>
+<td class="section">Notes, 1.7</td>
+<td>
+Applications of isometries, isoperimetric inequality.
+</td>
+<td>1.7.1, 1.7.2, 1.7.3, 1.7.4, 1.7.5, 1.7.6</td>
+</tr>
+
+
+<tr>
+<td>Sep 29</td>
+<td class="section">Notes</td>
+<td>
+Formula for a reflection in <i>R</i><sup>n</sup></i>,
+quaternions. 
+</td>
+<td>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td>Oct 3</td>
+<td class="section">Notes</td>
+<td>
+Quaternions and rotations in <i>R</i><sup>3</sup></i>.
+</td>
+<td>1.10.1.
+</td>
+</tr>
+
+
+<tr>
+<td>Oct 6</td>
+<td class="section">1.10</td>
+<td>
+Isometries in  <i>R<sup>2</sup></i>.
+<br><b>Second Assignment Due</b> </td>
+<td>
+&nbsp;
+</td>
+</tr>
+
+
+
+
+
+
+
+
+<tr>
+<td>Oct 10</td>
+<td class="section">Notes</td>
+<td>
+Isometries in  <i>R<sup>2</sup></i>, Cartan&ndash;Dieudonn&eacute; Theorem.
+</td>
+<td>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td>Oct 13</td>
+<td class="section">1.8</td>
+<td>The parallel postulate and its consequences, similar triangles.</td>
+<td>1.8.5, 1.8.6, 1.8.7, 1.8.8, 1.8.9.</td>
+</tr>
+
+
+<tr>
+<td>Oct 17</td>
+<td class="section">1.8, 1.9</td>
+<td>Congruence of triangles, angles on an arc.</td>
+<td> 1.9.1, 1.9.3, 1.9.6, 1.9.7, 1.9.9, 1.9.11, 1.9.12.</td>
+</tr>
+
+
+<tr>
+<td>Oct 20</td>
+<td class="section">Notes</td>
+<td>Further examples of Euclidean geometry, isometries of <i>R<sup>n</sup></i>.<br><b>Third Assignment Due</b>
+</td>
+<td>&nbsp;</td>
+</tr>
+
+
+
+
+<tr>
+<td>Oct 24</td>
+<td class="section">&nbsp;</td>
+<td><b>Study Week</b></td>
+<td>&nbsp; </td>
+</tr>
+
+
+
+<tr>
+<td>Oct 27</td>
+<td class="section">&nbsp;</td>
+<td><b>Study Week</b></td>
+<td>&nbsp; </td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>Oct 31</td>
+<td class="section">Notes</td>
+<td>Platonic solids, Euler's Theorem, classification of Platonic solids. </td>
+<td>&nbsp; </td>
+</tr>
+
+
+<tr>
+<td>Nov 3</td>
+<td class="section">&nbsp;</td>
+<td><b>Midterm Exam</b></td>
+<td>&nbsp; </td>
+</tr>
+
+
+<tr>
+<td>Nov 7</td>
+<td class="section">2.1&ndash;2.2</td>
+<td>Geodesics on a surface, geodesics on a sphere.</td>
+<td>&nbsp; </td>
+</tr>
+
+
+<tr>
+<td>Nov 10</td>
+<td class="section">Notes.</td>
+<td>
+Isometries of a sphere.
+
+</td>
+<td>  </td>
+</tr>
+
+
+<tr>
+<td>Nov 14</td>
+<td class="section">2.3&ndash;2.4</td>
+<td>
+Spherical triangles, area of a spherical triangle.
+</td>
+<td>2.4.1.</td>
+</tr>
+
+
+<tr>
+<td>Nov 17</td>
+<td class="section">2.9</td>
+<td>&nbsp;<br>Mapmaking and projections.<br><b>Fourth Assignment Due</b></td>
+<td>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td>Nov 21</td>
+<td class="section">2.9, 4.1&ndash;4.2</td>
+<td>Stereographic projection, projective geometry, perspective, the projective space <i>P<sup>n</sup></i>.</td>
+<td>2.9.1, 2.9.2, 2.9.3.  </td>
+</tr>
+
+
+<tr>
+<td>Nov 24</td>
+<td class="section">4.3&ndash;4.4</td>
+<td>Desargues' Theorem, cross-ratio.</td>
+<td>&nbsp; </td>
+</tr>
+
+
+<tr>
+<td>Nov 28</td>
+<td class="section">Notes</td>
+<td>Cross-ratio, circle inversion.</td>
+<td>&nbsp; </td>
+</tr>
+
+
+<tr>
+<td>Dec 1</td>
+<td class="section">Notes.</td>
+<td>The upper half-plane model of hyperbolic geometry.<br><b>Fifth Assignment Due</b></td>
+<td>&nbsp; </td>
+</tr>
+
+<tr>
+<td>Dec 5</td>
+<td class="section">Notes.</td>
+<td>Stereographic proection and inversion, the Poicar&eacute; disk model of hyperbolic geometry, false perspectives and optical illusion.</td>
+<td>&nbsp; </td>
+</tr>
+
+</table>
+
+
+<br>
+<br>
+
+</body>

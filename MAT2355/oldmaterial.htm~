@@ -1,0 +1,106 @@
+<body bgcolor="#fdf5d3">
+<style type="text/css">
+a:link {
+COLOR: #0000FF;
+}
+a:visited {
+COLOR: #0000FF;
+}
+a:hover {
+COLOR: #FF0000;
+}
+a:active {
+COLOR: #00FF00;
+}
+table {
+border-width:2px;border-spacing:0px;border-collapse:collapse;border-color:black;
+}
+td{
+border-width:1px;padding:8px;border-style:solid;border-color:black;font-size:.8em;
+}
+
+</style>
+
+
+<h3 style="position:relative;margin-top:20pt;" align="center">
+Exams given in previous years
+</h3>
+
+<table align="center">
+
+<tr>
+<td><b>Year</b></td>
+<td><b>Midterm</b></td>
+<td><b>Solutions</b></td>
+<td><b>Final</b></td>
+<td><b>Solutions</b></td>
+</tr>
+
+
+<tr>
+<td>2001</td>
+<td><a href="./old/2001-Midterm.pdf", target="_top">PDF</a></td>
+<td><a href="./old/2001-Midterm-Solutions.pdf", target="_top">PDF</td>
+<td><a href="./old/2001-Final.pdf">PDF</a></td>
+<td><a href="./old/2001-Final-Solutions.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>2002</td>
+<td><a href="./old/2002-Midterm.pdf", target="_top">PDF</a></td>
+<td><a href="./old/2002-Midterm-Solutions.pdf", target="_top">PDF</td>
+<td><a href="./old/2002-Final.pdf">PDF</a></td>
+<td><a href="./old/2002-Final-Solutions.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>2003</td>
+<td>&nbsp;</td>
+<td><a href="./old/2003-Midterm-Solutions.pdf", target="_top">PDF</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+<tr>
+<td>2004</td>
+<td><a href="./old/2004-Midterm.pdf", target="_top">PDF</a></td>
+<td><a href="./old/2004-Midterm-Solutions.pdf", target="_top">PDF</td>
+<td><a href="./old/2004-Final.pdf">PDF</a></td>
+<td>&nbsp;</td>
+</tr>
+
+<tr>
+<td>2008</td>
+<td><a href="./old/2008-Midterm.pdf", target="_top">PDF</a></td>
+<td><a href="./old/2008-Midterm-Solutions.pdf", target="_top">PDF</td>
+<td><a href="./old/2008-Final.pdf">PDF</a></td>
+<td><a href="./old/2008-Final-Solutions.pdf">PDF</a></td>
+</tr>
+
+
+
+
+</table>
+
+
+<h3 style="position:relative;margin-top:20pt;" align="center">Problem sets for further practice</h3>
+
+
+<table align="center">
+<tr>
+<td><a href="./old/problemsolutions1.pdf">PDF</a></td>
+
+<td><a href="./old/problemsolutions2.pdf">PDF</a></td>
+
+<td><a href="./old/problemsolutions3.pdf">PDF</a></td>
+
+<td><a href="./old/problemsolutions4.pdf">PDF</a></td>
+
+<td><a href="./old/problemsolutions5.pdf">PDF</a></td>
+</tr>
+</table>
+
+<br><br>
+
+
+
