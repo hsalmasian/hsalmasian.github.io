@@ -1,0 +1,56 @@
+<body bgcolor="#ECECEC">
+<style type="text/css">
+a:link {
+COLOR: #0000FF;
+}
+a:visited {
+COLOR: #0000FF;
+}
+a:hover {
+COLOR: #FF0000;
+}
+a:active {
+COLOR: #00FF00;
+}
+</style>
+
+<h4 style="position:relative;margin-left:10pt;margin-top:20pt;">General description of the course</h4>
+
+<p style="position:relative;margin-left:20pt;width:90%"> 
+This course is quite essential for students who are interested in any topic related to algebra. Note that in today's
+mathematics algebra is an inseparable part of other areas of mathematics such as  
+geometry and topology. 
+Which is why MAT 3143 is the prereqisite for several of our fourth year mathematics courses, 
+including MAT4141, MAT4145, MAT4149, MAT4154, MAT4157, MAT4158, and MAT4166.
+</p>
+
+<h4 style="position:relative;margin-left:10pt;">Official Course Syllabus</h4>
+
+<p style="position:relative;;margin-left:20pt;width:90%">Rings, polynomial rings, homomorphisms, quotient 
+rings, Euclidean rings, principal rings, factorial rings, fields, extensions of fields, splitting field, 
+finite fields. 
+</p>
+
+<h4 style="position:relative;margin-left:10pt;">Prerequisites</h4>
+
+<p style="position:relative;margin-left:20pt;width:90%">The prerequisites for this course are 
+MAT2141 and MAT2143.
+</p>
+
+<h4 style="position:relative;margin-left:10pt;">Course Text</h4>
+
+<p style="position:relative;margin-left:20pt;width:90%">
+
+W. Keith Nicholson, <i><a href="
+https://books.google.ca/books?id=w-GaLpapRcEC&printsec=frontcover&dq=books+google+nicholson+keith&hl=en&sa=X&ei=kZKUVOHWFcy8yQTJtoGwAw&ved=0CBwQ6AEwAA#v=onepage&q&f=false
+" target="_blank">Introduction to Abstract Algebra</a></i>, 4<sup>th</sup> Edition, Wiley-Interscience.
+
+
+</p>
+
+
+
+
+
+
+</body>

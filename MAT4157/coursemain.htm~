@@ -1,0 +1,161 @@
+<body bgcolor="#ECECEC">
+<style type="text/css">
+p.titlebar {
+font-size:1.8em;
+width: 750px;
+text-align : center;
+margin-top:1.2em;
+margin-bottom : 2em;
+padding-top:.5em;
+padding-bottom:.5em;
+padding-left:1em;
+padding-right:1em;
+background : url(./bg.gif);
+background-position : center;
+background-repeat : repeat-x;
+}
+
+a:link {
+COLOR: #0000FF;
+}
+a:visited {
+COLOR: #0000FF;
+}
+a:hover {
+COLOR: #FF0000;
+}
+a:active {
+COLOR: #00FF00;
+}
+li.My{margin-bottom:10px;}
+
+td.pc
+{
+padding:.2em;text-align:left;
+}
+td.pcc
+{
+padding:.2em;text-align:left;
+}
+</style>
+
+
+<center>
+<p class="titlebar">
+<font face="georgia"><b>MAT2143 &ndash; Algebraic Structures<br><br> Winter 2016</b></font>
+</p>
+</center>
+
+<img style="position:absolute;right:160px;top:260px;width:210px;"align=right src="dihedral.png">
+
+
+
+<p style="position:relative;left:20pt;">
+<b>Instructor : </b> 
+<a target="_top" href="http://mysite.science.uottawa.ca/hsalmasi/"> Hadi Salmasian</a> 
+</p>
+<p style="position:relative;left:20pt;">
+<b>Office hours : </b> 
+</p>
+<p style="position:relative;left:20pt;">
+<table style="position:relative;left:20pt;">
+<tr>
+	<td class="pc">
+	Tue/Mar &nbsp;&nbsp;
+	</td>
+	<td class="pcc">
+	10:00 &ndash; 11:20&nbsp;&nbsp; 
+	</td>
+	<td class="pc">
+	<a href="http://maps.uottawa.ca/?building=KED" target="_top">KED 209-E</a>
+	</td>
+</tr>
+</table>
+</p>
+<p style="position:relative;left:20pt;">
+<b>Lecture Times :</b>
+</p>
+<p style="position:relative;left:20pt;">
+<table style="position:relative;left:20pt;">
+<tr>
+	<td class="pc">
+	Wed/Mer &nbsp;&nbsp;
+	</td>
+	<td class="pcc">
+	10:00 &ndash; 11:30&nbsp;&nbsp; 
+	</td>
+	<td class="pc">	
+	<a target="_top" 
+	href="http://maps.uottawa.ca/?building=CBY">
+	CBY B012</a>
+	</td>
+</tr>
+<tr>
+	<td class="pc">
+	Fri/Ven &nbsp;&nbsp;
+	</td>
+	<td class="pcc"> 8:30 &ndash; 10:00 &nbsp;&nbsp;
+	</td> 
+	<td class="pc">
+	<a target="_top" 
+	href="http://maps.uottawa.ca/?building=CBY">
+	CBY B012</a>
+	</td>
+</tr>
+</table>
+</p>
+
+<p style="position:relative;left:20pt;">
+<b>DGD :</b>
+</p>
+<p style="position:relative;left:20pt;">
+<table style="position:relative;left:20pt;">
+<tr>
+	<td class="pc">
+	Tue/Mar &nbsp;&nbsp;
+	</td>
+	<td class="pcc">
+	11:30 &ndash; 13:00&nbsp;&nbsp; 
+	</td>
+	<td class="pc">
+	<a target="_top" 
+	href="http://maps.uottawa.ca/?building=FTX">
+	FTX 227</a>
+	</td>
+</tr>
+</table>
+</p>
+
+
+
+
+
+
+<div style="margin-left:4em;margin-top:6em;margin-right:4em;background-color:#FF8000;padding:1px 1em 1em 1em;">
+<p  align="center"><b>Announcements</b></p>
+<ul style="font-size:.79em;">
+
+
+
+
+
+
+
+<li><i>December 18.</i> The first DGD will be on January 19.</li> <br>
+
+
+
+
+
+</ul>
+
+
+
+
+
+
+
+</div>
+<br>
+<br>
+</body>
