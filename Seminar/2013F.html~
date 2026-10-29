@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <link rel="SHORTCUT ICON" href="../algebra.ico">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Ottawa-Carleton Algebra Seminar" />
+	<meta name="keywords" content="algebra,seminar,math,ottawa,carleton" />
+	<meta name="author" content="Alistair Savage" />
+	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz|Droid+Sans' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" type="text/css" media="all" href="inland.css" />
+	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
+	<title>Ottawa-Carleton Joint Algebra Seminar</title>
+</head>
+
+<body>
+<div id="wrapper960" class="clearfix">
+	<div id="header" class="clearfix">
+		<div id="sitetitle" class="clearfix">
+			<h1><a href="2012F.html">Ottawa-Carleton joint algebra seminar (Fall 2013)</a></h1>
+		</div>
+
+		<div id="nav" class="clearfix">
+			<ul>
+				<li><a href="http://www.mathstat.uottawa.ca">Ottawa math</a></li>
+				<li><a href="http://math.carleton.ca/">Carleton math</a></li>
+				<li><a href="http://mysite.science.uottawa.ca/algebra/index.html">algebra homepage</a></li>
+				<li><a href="http://www.protection.uottawa.ca/en/shuttlecarleton.html">shuttle</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="slider-wrapper">
+		<div id="slider" class="nivoSlider">
+			<img src="images/slider0.jpg" alt="" />
+			<img src="images/slider1.jpg" alt="" />
+			<img src="images/slider2.jpg" alt="" />
+			<img src="images/slider3.jpg" alt="" />
+		</div>
+	</div>
+
+	<div id="content" class="clearfix shadow">
+		<h2>Time and location</h2>
+                <p>The Ottawa-Carleton joint algebra seminar meets during the academic year approximately once per week at either The University of Ottawa or Carleton University.  Unless otherwise indicated, the seminar takes place on Mondays, 11:30-12:20 at the following location:</p>
+                <ul style="list-style: none;">
+                  <li style="list-style: none; margin-left:5px"><i>University of Ottawa:</i>&nbsp; KED B015 (seminar room of the Department)
+                  <li style="list-style: none; margin-left:5px"><i>Carleton University:</i>&nbsp; MacPhail room  HP 4351 (colloquium room of the Department).
+                </ul>
+
+                <p>For information on the seminar in past semesters, click <a href="http://mysite.science.uottawa.ca/algebra/activity.html">here</a>.  To schedule a talk, please contact <A HREF="http://mysite.science.uottawa.ca/neher/">Erhard Neher</A>.</p>
+        </div>
+
+	<div id="content" class="clearfix shadow">		
+		<h2>Talks</h2>
+
+                <p>For a complete listing of all talks at the University of Ottawa, click <a href="http://www.mathstat.uottawa.ca/research/talks_en.html">here</a>.</p>
+
+                <table cols="3" width="100%" cellpadding="30">
+                <tr>
+                  <td width="20%"><B>Date</B>
+                  <td width="25%"><B>Speaker</B>
+                  <td><B>Title (click on titles to show/hide abstracts)</B>
+                <tr>
+
+                  <td>Sept 23 (O)</td>
+                  <td>Joel Lemay (Ottawa)</td>
+                  <td>
+                    <div id="SeeLemay" class="openclose" style="display:block" onclick="OpenClose('HideLemay','SeeLemay');">
+                      <a>Geometric Realizations of the Basic Representation of Affine sl(n)</a>
+                    </div>
+                    <div id="HideLemay" class="openclose" style="display:none" onclick="CloseOpen('HideLemay','SeeLemay');">
+                      <a>Geometric Realizations of the Basic Representation of Affine sl(n)</a>
+                      <br><br>
+                      <i>Abstract: </i>
+                      In their 1990 paper, ten Kroode and van de Leur gave explicit realizations of the basic representation of affine gl(n) and sl(n). In particular, there exists one realization for each partition of n (with the two extreme cases being the well-known principal and homogeneous realizations). In this talk, we will give a geometric interpretation of these various realizations. For the principal realization, our construction is given in terms of the equivariant cohomology of the Hilbert scheme of points in the plane and Nakajima quiver varieties. We then obtain similar constructions for the other realizations via a certain generalization of the Hilbert scheme.
+                      <br>&nbsp;
+                    </div> <a href="Lemay-slides.pdf">(slides)</a>
+                  </td>
+
+        <tr>
+                  <td>Sept. 30 (C)</td>
+                  <td>Yuly Billig (Carleton)</td>
+                  <td>
+                    <div id="SeeBillig" class="openclose" style="display:block" onclick="OpenClose('HideBillig','SeeBillig');">
+                      <a>Classification of simple modules with finite-dimensional weight spaces for the Lie algebra of vector fields on a torus</a>
+                    </div>
+                    <div id="HideBillig" class="openclose" style="display:none" onclick="CloseOpen('HideBillig','SeeBillig');">
+                      <a>Classification of simple modules with finite-dimensional weight spaces for the Lie algebra of vector fields on a torus</a>
+                      <br><br>
+                      <i>Abstract:</i>
+                        We establish a classification of simple modules with finite-dimensional weight spaces for the Lie algebra of vector fields on a torus. This work generalizes the classical result of O.Mathieu for the Virasoro Lie algebra. There are two classes of such simple modules: (1) cuspidal modules and (2) modules of the highest weight type. Cuspidal modules are those which have a uniform bound on the dimension of their weight spaces. In order to classify cuspidal modules we construct a functor into the category of modules that admit a compatible action of the commutative algebra of functions on a torus. This is a joint work with V.Futorny.
+                      <br>&nbsp;
+                    </div>
+                  </td>
+        <tr>
+
+              <td>Oct. 28 (O)</td>
+                  <td>Daniele Rosso (Ottawa)</td>
+                  <td>
+                    <div id="SeeRosso" class="openclose" style="display:block" onclick="OpenClose('HideRosso','SeeRosso');">
+                      <a>The mirabolic Hecke algebra</a>
+                    </div>
+                    <div id="HideRosso" class="openclose" style="display:none" onclick="CloseOpen('HideRosso','SeeRosso');">
+                      <a>The mirabolic Hecke algebra  </a>
+                      <br><br>
+                      <i>Abstract:</i>The Iwahori-Hecke algebra of the symmetric group is the convolution algebra arising from the variety of pairs of complete flags over a finite field.
+                      Considering convolution on the space of triples of two flags and a vector we obtain the mirabolic Hecke algebra, which had originally been described by Solomon. We will see a new presentation of this algebra which shows that it is a quotient of a cyclotomic Hecke algebra.
+                     This lets us recover Siegel's results about its representations, as well as proving new 'mirabolic' analogues of classical results about the Iwahori-Hecke algebra.
+  <br>&nbsp;
+                    </div>
+                  </td>
+        <tr>
+
+                      <td>Nov. 18 (O)</td>
+                  <td>Alexander Neshitov (Ottawa)</td>
+                  <td>
+                    <div id="SeeNeshitov" class="openclose" style="display:block" onclick="OpenClose('HideNeshitov','SeeNeshitov');">
+                      <a>Invariants of degree 3 and torsion in the Chow ring of a versal flag variety</a>
+                    </div>
+                    <div id="HideNeshitov" class="openclose" style="display:none" onclick="CloseOpen('HideNeshitov','SeeNeshitov');">
+                      <a>Invariants of degree 3 and torsion in the Chow ring of a versal flag variety</a>
+                      <br><br>
+                      <i>Abstract:</i>
+                      In this talk we will discuss the connection between degree 3 cohomological invariants of a split semisimple group and the torsion in the Chow group of codimension two cycles of the corresponding versal flag variety. The talk is based on joint work with Alexander Merkurjev and Kirill Zainoulline.
+                      <br>&nbsp;
+                    </div>
+                  <a href="Neshitov-slides.pdf">(slides)</a>
+                  </td>
+
+
+        <tr>
+
+                <td>Nov. 25 (C)</td>
+                  <td>Ming Ming Zhang (Carleton)</td>
+                  <td>
+                    <div id="SeeZhang" class="openclose" style="display:block" onclick="OpenClose('HideZhang','SeeZhang');">
+                      <a> On fully residually-R groups</a>
+                    </div>
+                    <div id="HideZhang" class="openclose" style="display:none" onclick="CloseOpen('HideZhang','SeeZhang');">
+                      <a> On fully residually-R groups</a>
+                      <br><br>
+                      <i>Abstract:</i>
+                      The notion of a (fully) residually-C group, where C is a class of groups, was introduced long time ago. Usually, C is chosen to be a class of groups with nice properties, such as finite groups, nilpotent groups, free groups, etc. For some classes C, a group G is residually-C if and only if G is fully residually-C. However, the situation is very different for the class of free groups, as was shown by Benjamin Baumslag: a group is fully residually free if and only if it is residually free and commutative transitive.
+                      In this talk, we consider the class R of finitely generated toral relatively hyperbolic groups. I will explain that groups from R are commutative transitive and generalize Baumslag's theorem to this class.
+
+                      This is joint work with Inna Bumagin.
+
+                          <br>&nbsp;
+                    </div>
+                      </td>
+   <tr>
+
+                <td>Dec. 2 (O)</td>
+                  <td>Wanshun Wong (Ottawa)</td>
+                  <td>
+                    <div id="SeeWong" class="openclose" style="display:block" onclick="OpenClose('HideWong','SeeWong');">
+                      <a>Periods of generic torsors of groups of multiplicative type</a>
+                    </div>
+                    <div id="HideWong" class="openclose" style="display:none" onclick="CloseOpen('HideWong','SeeWong');">
+                      <a>Periods of generic torsors of groups of multiplicative type</a>
+                      <br><br>
+                      <i>Abstract:</i>
+                     For a smooth commutative linear algebraic group G, its first Galois cohomology has an abelian group structure. The period of a G-torsor is then defined to be the order of the corresponding element in the first Galois cohomology group. In this talk I will show that the period of a generic G-torsor can be computed using coflasque resolutions of G.
+                          <br>&nbsp;
+                    </div>
+                      </td>
+
+
+                   </table>
+		<p><b>(O) = uOttawa, (C) = Carleton</b>
+	</div>
+
+
+      <p>
+
+	<div id="footer" class="shadow">
+		<p>&copy; 2013 <a href="http://www.mathstat.uottawa.ca/~asavag2">Alistair Savage</a> | <a href="http://andreasviklund.com/templates/inland/">Template design</a> by <a href="http://andreasviklund.com/">andreasviklund.com</a></p>
+	</div>
+</div>
+
+<script type="text/javascript">
+	$(window).load(function() {
+		$('#slider').nivoSlider();
+	});
+</script>
+<script type="text/JavaScript" src="js/main.js"></script>
+</body>
+</html> 

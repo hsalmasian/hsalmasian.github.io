@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <link rel="SHORTCUT ICON" href="../algebra.ico">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Ottawa-Carleton Algebra Seminar" />
+	<meta name="keywords" content="algebra,seminar,math,ottawa,carleton" />
+	<meta name="author" content="Alistair Savage" />
+	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz|Droid+Sans' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" type="text/css" media="all" href="inland.css" />
+	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
+	<title>Ottawa-Carleton Joint Algebra Seminar</title>
+</head>
+
+<body>
+<div id="wrapper960" class="clearfix">
+	<div id="header" class="clearfix">
+		<div id="sitetitle" class="clearfix">
+			<h1><a href="2012F.html">Ottawa-Carleton joint algebra seminar (Winter 2014)</a></h1>
+		</div>
+
+		<div id="nav" class="clearfix">
+			<ul>
+				<li><a href="http://www.mathstat.uottawa.ca">Ottawa math</a></li>
+				<li><a href="http://math.carleton.ca/">Carleton math</a></li>
+				<li><a href="http://mysite.science.uottawa.ca/algebra/index.html">algebra homepage</a></li>
+				<li><a href="http://www.protection.uottawa.ca/en/shuttlecarleton.html">shuttle</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="slider-wrapper">
+		<div id="slider" class="nivoSlider">
+			<img src="images/slider0.jpg" alt="" />
+			<img src="images/slider1.jpg" alt="" />
+			<img src="images/slider2.jpg" alt="" />
+			<img src="images/slider3.jpg" alt="" />
+		</div>
+	</div>
+
+	<div id="content" class="clearfix shadow">
+		<h2>Time and location</h2>
+                <p>The Ottawa-Carleton joint algebra seminar meets during the academic year approximately once per week at either The University of Ottawa or Carleton University.  Unless otherwise indicated, the seminar takes place on Fridays, 14:30-15:20 at the following location:</p>
+                <ul style="list-style: none;">
+                  <li style="list-style: none; margin-left:5px"><i>University of Ottawa:</i>&nbsp; KED B005 (seminar room of the Department)
+                  <li style="list-style: none; margin-left:5px"><i>Carleton University:</i>&nbsp; MacPhail room  HP ****.
+                </ul>
+
+                <p>For information on the seminar in past semesters, click <a href="http://mysite.science.uottawa.ca/algebra/activity.html">here</a>.  To schedule a talk, please contact <A target="_top"HREF="http://mysite.science.uottawa.ca/hsalmasi/">Hadi Salmasian</A>.</p>
+        </div>
+
+	<div id="content" class="clearfix shadow">		
+		<h2>Talks</h2>
+
+                <p>For a complete listing of all talks at the University of Ottawa, click <a href="http://www.mathstat.uottawa.ca/research/talks_en.html">here</a>.</p>
+
+                <table cols="3" width="100%" cellpadding="30">
+                <tr>
+                  <td width="20%"><B>Date</B>
+                  <td width="25%"><B>Speaker</B>
+                  <td><B>Title (click on titles to show/hide abstracts)</B>
+
+        <tr>
+                  <td>Jul. 10 (O)</td>
+                  <td>Changlong Zhong (SUNY Albany)</td>
+                  <td>
+                    <div id="SeeBillig" class="openclose" style="display:block" onclick="OpenClose('HideBillig','SeeBillig');">
+                      <a>Generalized Hecke algebras. <b>11:30&ndash;12:30 in KED B015</b></a>
+                    </div>
+                    <div id="HideBillig" class="openclose" style="display:none" onclick="CloseOpen('HideBillig','SeeBillig');">
+                      <a>Generalized Hecke algebras. <b>11:30&ndash;12:30 in KED B015</b></a>
+                      <br><br>
+                      <i>Abstract:</i>
+ In this talk I will review the algebraic definition of formal affine Hecke algebra, and its relation with equivariant oriented cohomology of Steinberg variety. Moreover, I will also briefly mention a parallel work, which shows that the elliptic affine Hecke algebra is isomorphic to the equivariant elliptic cohomology of Steinberg variety with some twist.
+
+                      <br>&nbsp;
+                    </div>
+                  </td>
+ </tr>
+ 
+ <br>
+
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+                   </table>
+		<p><b>(O) = uOttawa, (C) = Carleton</b>
+	</div>
+
+
+      <p>
+
+	<div id="footer">
+  <p>&copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> <a href="#">Alistair Savage</a> | Design by Stylish <a href="http://www.stylishtemplate.com/">Website Templates</a></p>
+</div>
+</div>
+
+<script type="text/javascript">
+	$(window).load(function() {
+		$('#slider').nivoSlider();
+	});
+</script>
+<script type="text/JavaScript" src="js/main.js"></script>
+</body>
+</html> 

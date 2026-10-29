@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <link rel="SHORTCUT ICON" href="../algebra.ico">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Ottawa-Carleton Algebra Seminar" />
+	<meta name="keywords" content="algebra,seminar,math,ottawa,carleton" />
+	<meta name="author" content="Alistair Savage" />
+	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz|Droid+Sans' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" type="text/css" media="all" href="inland.css" />
+	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
+	<title>Ottawa-Carleton Joint Algebra Seminar</title>
+</head>
+
+<body>
+<div id="wrapper960" class="clearfix">
+	<div id="header" class="clearfix">
+		<div id="sitetitle" class="clearfix">
+			<h1><a href="2012F.html">Ottawa-Carleton joint algebra seminar (Winter 2016)</a></h1>
+		</div>
+
+		<div id="nav" class="clearfix">
+			<ul>
+				<li><a href="http://www.mathstat.uottawa.ca">Ottawa math</a></li>
+				<li><a href="http://math.carleton.ca/">Carleton math</a></li>
+				<li><a href="http://mysite.science.uottawa.ca/algebra/index.html">algebra homepage</a></li>
+				<li><a href="http://www.protection.uottawa.ca/en/shuttlecarleton.html">shuttle</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="slider-wrapper">
+		<div id="slider" class="nivoSlider">
+			<img src="images/slider0.jpg" alt="" />
+			<img src="images/slider1.jpg" alt="" />
+			<img src="images/slider2.jpg" alt="" />
+			<img src="images/slider3.jpg" alt="" />
+		</div>
+	</div>
+
+	<div id="content" class="clearfix shadow">
+		<h2>Time and location</h2>
+                <p>The Ottawa-Carleton joint algebra seminar meets during the academic year approximately once per week at either The University of Ottawa or Carleton University.  Unless otherwise indicated, the seminar takes place on Fridays, 
+14:30&ndash;15:30 at the following location:</p>
+                <ul style="list-style: none;">
+                  <li style="list-style: none; margin-left:5px"><i>University of Ottawa:</i>&nbsp; KED B015
+                  <li style="list-style: none; margin-left:5px"><i>Carleton University:</i>&nbsp;  HP 4369
+                </ul>
+
+                <p>For information on the seminar in past semesters, click <a href="http://mysite.science.uottawa.ca/algebra/activity.html">here</a>.  To schedule a talk, please contact <A target="_top"HREF="http://mysite.science.uottawa.ca/hsalmasi/">Hadi Salmasian</A>.</p>
+        </div>
+
+	<div id="content" class="clearfix shadow">		
+		<h2>Talks</h2>
+
+                <p>For a complete listing of all talks at the University of Ottawa, click <a href="http://www.mathstat.uottawa.ca/research/talks_en.html">here</a>.</p>
+
+           	<table cols="3" width="100%" cellpadding="30">
+                <tr>
+                  <td width="20%"><B>Date</B>
+                  <td width="25%"><B>Speaker</B>
+                  <td><B>Title (click on titles to show/hide abstracts)</B>
+
+	<tr>
+                  <td>Jan 8 (O)</td>
+                  <td>Caroline Junkins</td>
+                  <td>
+                    <div id="SeeCJu" class="openclose" style="display:block" onclick="OpenClose('HideCJu','SeeCJu');">
+                      <a>On the topological filtration for generalized Severi-Brauer varieties</a>
+                    </div>
+                    <div id="HideCJu" class="openclose" style="display:none" onclick="CloseOpen('HideCJu','SeeCJu');">
+                      <a>On the topological filtration for generalized Severi-Brauer varieties:</a>
+                      <br><br>
+                      <i>Abstract:</i>
+			For a generalized Severi-Brauer variety X corresponding to a central simple algebra A, the Grothendieck group 
+			of X can be described via combinatorial data related to the index and exponent of A. In this talk, we consider 	
+			how this data relates to the topological filtration of X and the Chow group of X. This is part of ongoing work
+			with Nicole Lemire and Daniel Krashen. 
+                      <br>&nbsp;
+                    </div>
+                  </td>
+	</tr>
+ 
+	<tr>
+                  <td>Feb 26 (C)</td>
+                  <td>Elisabeth Fink (Ottawa)</td>
+                  <td>
+                    <div id="SeeFink" class="openclose" style="display:block" onclick="OpenClose('HideFink','SeeFink');">
+                      <a>Morse geodesics in lacunary hyperbolic groups</a>
+                    </div>
+                    <div id="HideFink" class="openclose" style="display:none" onclick="CloseOpen('HideFink','SeeFink');">
+                      <a>Morse geodesics in lacunary hyperbolic groups</a>
+                      <br><br>
+                      <i>Abstract:</i>
+			A geodesic is Morse if quasi-geodesics connecting points on it stay uniformly close. If the embedding of the cyclic subgroup generated by an element is a Morse geodesic, then that element is called a Morse element. In many known examples, Morse geodesics in groups have been found via Morse elements. By studying asymptotic cones and using small cancellation, we will show how Morse geodesics can be exhibited in many lacunary hyperbolic groups, including Tarski monsters. This represents first examples of groups that have Morse geodesics but no Morse elements. I will describe further properties of non-Morse geodesics and also show how a tree can be quasi-isometrically embedded into such groups.<br>&nbsp;
+                    </div>
+                  </td>
+	</tr>
+
+
+
+	<tr>
+                  <td>Mar 4 (O)</td>
+                  <td>Fran&ccedil;ois Charette (U de M)</td>
+                  <td>
+                    <div id="SeeChar" class="openclose" style="display:block" onclick="OpenClose('HideChar','SeeChar');">
+                      <a>Quantum Reidemeister torsion of Lagrangian submanifolds</a>
+                    </div>
+                    <div id="HideChar" class="openclose" style="display:none" onclick="CloseOpen('HideChar','SeeChar');">
+                      <a>Quantum Reidemeister torsion of Lagrangian submanifolds</a>
+                      <br><br>
+                      <i>Abstract:</i>
+			 Lagrangian submanifolds are important objects in the study of symplectic topology, they appear for example in integrable Hamiltonian systems.  A fundamental tool to study them is Lagrangian Floer homology, however  this homology often vanishes in practice.  We will review the notion of torsion of an acyclic chain complex with a cyclic grading and apply it to Lagrangians with vanishing Floer homology.
+<br>&nbsp;
+                    </div>
+                  </td>
+	</tr>
+
+
+
+	<tr>
+                  <td>Mar 8 (O)</td>
+                  <td>Ugo bruzzo (SISSA)</td>
+                  <td>
+                    <div id="SeeUBr" class="openclose" style="display:block" onclick="OpenClose('HideUBr','SeeUBr');">
+                      <a>The Noether-Lefschetz locus of surfaces in toric 3-folds<font color=red><br>Special time and location: 13:00&ndash;14:00 in KED B004</font></a>
+                    </div>
+                    <div id="HideUBr" class="openclose" style="display:none" onclick="CloseOpen('HideUBr','SeeUBr');">
+                      <a>The Noether-Lefschetz locus of surfaces in toric 3-folds</a>
+                      <br><br>
+                      <i>Abstract:</i>
+			 A classical result states that the very general surface of degree d
+larger than three in P3 has Picard number 1, and that the locus of surfaces
+of degree d with Picard number greater than 1 has codimension at least d-3.
+Moreover, the lower bound is reached by the families of surfaces which contain
+a line. In this talk I will show how, under suitable assumptions, this can be
+ generalized to surfaces in (normal) projective simplicial toric 3-folds.
+Joint work with Antonella Grassi.<br>&nbsp;
+                    </div>
+                  </td>
+	</tr>
+
+	<tr>
+                  <td>Mar 18 (O)</td>
+                  <td>Adam Logan (CSE)</td>
+                  <td>
+                    <div id="SeeLogan" class="openclose" style="display:block" onclick="OpenClose('HideLogan','SeeLogan');">
+                      <a>Modularity of some Calabi-Yau threefolds coming from physics</a>
+                    </div>
+                    <div id="HideLogan" class="openclose" style="display:none" onclick="CloseOpen('HideLogan','SeeLogan');">
+                      <a>Modularity of some Calabi-Yau threefolds coming from physics</a>
+                      <br><br>
+                      <i>Abstract:</i>
+			 The correspondence between elliptic curves over $\mathbb Q$ up to isogeny and modular forms of weight $2$ (due in one direction to Eichler and Shimura, in the other mostly to Wiles) is at the heart of modern arithmetic geometry.  One would like to generalize to modular forms of weight greater than $2$.  Brown and Schnetz, motivated by ideas from physics, constructed certain varieties and observed that their numbers of points mod $p$ sometimes matched the coefficients of modular forms.  In this talk I will explain how I proved this in two of their examples in which no variety corresponding to the modular form was previously known.  Time permitting, I will also describe how I have found varieties matching other modular forms by exploring nearby regions of an appropriate moduli space (conjectural for now, but provable by a finite computation).<br>&nbsp;
+                    </div>
+                  </td>
+	</tr>
+
+
+	<tr>
+                  <td>Apr 5 (C)</td>
+                  <td>Andrei Minchenko</td>
+                  <td>
+                    <div id="SeeMi" class="openclose" style="display:block" onclick="OpenClose('HideMi','SeeMi');">
+                      <a>Differential algebraic groups and their applications<font color=red><br>Special time and location: 13:30&ndash;14:30 in HP4325</font></a>
+                    </div>
+                    <div id="HideMi" class="openclose" style="display:none" onclick="CloseOpen('HideMi','SeeMi');">
+                      <a>Differential algebraic groups and their applications</a>
+                      <br><br>
+                      <i>Abstract:</i>
+			     At the most basic level, differential algebraic geometry
+    studies solution
+    spaces of systems of differential polynomial equations. If a matrix
+    group
+    is defined by a set of such equations, one arrives at the notion of
+    a
+    linear differential algebraic group, introduced by P. Cassidy. These
+    groups
+    naturally appear as Galois groups of linear differential equations
+    with
+    parameters. Studying linear differential algebraic groups and their
+    representations is important for applications to finding
+    dependencies among
+    solutions of differential and difference equations (e.g.
+    transcendence
+    properties of special functions). This study makes extensive use of
+    the
+    representation theory of Lie algebras. Remarkably, via their Lie
+    algebras,
+    differential algebraic groups are related to Lie conformal algebras,
+    defined by V. Kac. We will discuss these and other aspects of
+    differential
+    algebraic groups, as well as related open problems.
+
+.<br>&nbsp;
+                    </div>
+                  </td>
+	</tr>
+
+
+
+	<tr>
+                  <td>Apr 8 (O)</td>
+                  <td>Daniel Barrera Salazar (CRM, Montr&eacute;al)</td>
+                  <td>
+                    <div id="SeeDa" class="openclose" style="display:block" onclick="OpenClose('HideDa','SeeDa');">
+                      <a> Overconvergent Eichler-Shimura isomorphisms for Shimura curves<font color=red><br>Joint Number Theory and Algebra Seminar</font></a>
+                    </div>
+                    <div id="HideDa" class="openclose" style="display:none" onclick="CloseOpen('HideDa','SeeDa');">
+                      <a> Overconvergent Eichler-Shimura isomorphisms for Shimura curves</a>
+                      <br><br>
+                      <i>Abstract:</i>
+			      We will discuss the p-adic variation of the Eichler-Shimura isomorphism in the context of Shimura curves. In particular, we describe the finite slope part of the space of overconvergent modular symbols in terms of the finite slope part of the space of overconvergent modular forms. As an application we will explain how to attach Galois representations to certain overconvergent modular forms. This is joint work with Shan Gao.
+
+.<br>&nbsp;
+                    </div>
+                  </td>
+	</tr>
+
+
+	<tr>
+                  <td>May 3 (O)</td>
+                  <td>Cameron Ruether (Ottawa)</td>
+                  <td>
+                    <div id="SeeCam" class="openclose" style="display:block" onclick="OpenClose('HideCam','SeeCam');">
+                      <a> Geometric properties of some homogeneous spaces</font> </a><br>
+			<b>This talk will place at 2:30 p.m. in KED B004</b>
+                    </div>
+                    <div id="HideCam" class="openclose" style="display:none" onclick="CloseOpen('HideCam','SeeCam');">
+                      <a> Geometric properties of some homogeneous spaces</a>
+                      <br><br>
+                      <i>Abstract:</i>
+			      This is mostly an introduction lecture addressed to Undergrad/Master
+students.
+
+.<br>&nbsp;
+                    </div>
+                  </td>
+	</tr>
+
+
+
+
+ <br>
+
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+                   </table>
+		<p><b>(O) = uOttawa, (C) = Carleton</b>
+	</div>
+
+
+      <p>
+
+	<div id="footer">
+  <p>&copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> <a href="#">Alistair Savage</a> | Design by Stylish <a href="http://www.stylishtemplate.com/">Website Templates</a></p>
+</div>
+</div>
+
+<script type="text/javascript">
+	$(window).load(function() {
+		$('#slider').nivoSlider();
+	});
+</script>
+<script type="text/JavaScript" src="js/main.js"></script>
+</body>
+</html> 
