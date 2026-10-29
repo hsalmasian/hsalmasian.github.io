@@ -1,55 +1,303 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
-    "http://www.w3.org/TR/html4/frameset.dtd">
+<!doctype html>
 <html lang="en">
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="google-site-verification" content="9ggExc4HWyRRIvW0Q2-HhYstH5MnLCv_iXmDieHO5F0">
-    <title>Hadi Salmasian | Professor of Mathematics | University of Ottawa</title>
-    <meta name="description" content="Hadi Salmasian is a professor of mathematics at the University of Ottawa. Research in representation theory, combinatorics, mathematical physics and category theory.">
-    <meta name="author" content="Hadi Salmasian">
-    <meta property="og:type" content="profile">
-    <meta property="og:title" content="Hadi Salmasian | Professor of Mathematics | University of Ottawa">
-    <meta property="og:description" content="Academic webpage of Hadi Salmasian, University of Ottawa. Research, publications, teaching, and curriculum vitae.">
-    <meta property="og:site_name" content="Hadi Salmasian - Academic Website">
-    <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ProfilePage",
-  "name": "Hadi Salmasian - Academic Homepage",
-  "description": "Hadi Salmasian is a professor of mathematics at the University of Ottawa. His research focuses on representation theory and connections to combinatorics, mathematical physics and category theory.",
-  "mainEntity": {
-    "@type": "Person",
-    "name": "Hadi Salmasian",
-    "jobTitle": "Professor of Mathematics",
-    "worksFor": {
-      "@type": "CollegeOrUniversity",
-      "name": "University of Ottawa"
-    },
-    "knowsAbout": [
-      "Representation theory",
-      "Algebra",
-      "Combinatorics",
-      "Mathematical physics",
-      "Category theory",
-      "Cryptography"
-    ]
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="9ggExc4HWyRRIvW0Q2-HhYstH5MnLCv_iXmDieHO5F0">
+  <meta name="author" content="Hadi Salmasian">
+  <meta name="description" content="Hadi Salmasian, Professor of Mathematics at the University of Ottawa. Research in representation theory and its connections to combinatorics, mathematical physics, and category theory; teaching, publications, and CV.">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="Hadi Salmasian | Mathematics | University of Ottawa">
+  <meta property="og:description" content="Academic website of Hadi Salmasian: research, teaching, publications, and curriculum vitae.">
+  <meta property="og:site_name" content="Hadi Salmasian">
+  <title>Hadi Salmasian | Professor of Mathematics | University of Ottawa</title>
+  <link rel="icon" href="favicon.ico">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "name": "Hadi Salmasian - Academic Homepage",
+    "description": "Academic information about Hadi Salmasian, Professor of Mathematics at the University of Ottawa.",
+    "mainEntity": {
+      "@type": "Person",
+      "name": "Hadi Salmasian",
+      "jobTitle": "Professor of Mathematics",
+      "worksFor": {
+        "@type": "CollegeOrUniversity",
+        "name": "University of Ottawa"
+      },
+      "knowsAbout": ["Representation theory", "Algebra", "Combinatorics", "Mathematical physics", "Category theory", "Cryptography"]
+    }
   }
-}
-    </script>
-    <link rel="shortcut icon" href="favicon.ico">
-    <link rel="icon" href="favicon.ico">
+  </script>
+  <style>
+    :root { color-scheme: light; }
+    * { box-sizing: border-box; }
+    html { scroll-padding-top: 9rem; }
+    body { margin: 0; background: #fff; color: #292929; font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif; line-height: 1.6; }
+    .site-header { position: sticky; top: 0; z-index: 20; min-height: 88px; background: #a4a4a4; border-bottom: 1px solid #858585; }
+    .header-inner { position: relative; max-width: 100%; display: flex; align-items: center; justify-content: flex-end; min-height: 88px; padding: 10px 24px; }
+    .site-title { position: absolute; left: 50%; top: 50%; margin: 0; transform: translate(-50%, -50%); white-space: nowrap; font-size: 1.62rem; line-height: 1.25; font-weight: 700; }
+    .site-title a { color: #3b1717; text-decoration: none; }
+    .site-title a:hover, .site-title a:focus-visible { text-decoration: underline; }
+    .primary-nav { display: flex; justify-content: flex-end; align-items: center; gap: 8px; flex-wrap: wrap; position: relative; z-index: 1; }
+    .primary-nav a { display: inline-block; padding: 10px 13px; border-radius: 6px; background: #8a0808; color: #fff; font-size: 1.2rem; font-weight: bold; line-height: 1.25; text-decoration: none; }
+    .primary-nav a:hover, .primary-nav a:focus-visible { color: #fff; background: #fe2e2e; }
+    .primary-nav a[aria-current="page"] { background: #a52222; }
+    .primary-nav a:focus-visible, .site-title a:focus-visible, main a:focus-visible { outline: 3px solid #1455af; outline-offset: 2px; }
+    .page-content { max-width: 1200px; min-height: 55vh; padding: 32px clamp(18px, 3.5vw, 48px) 52px; margin: 0 auto; }
+    .home-profile { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: start; gap: 32px; }
+    .profile-text h2 { margin: 0 0 12px; font-size: 1.4rem; font-weight: bold; }
+    .profile-text p { margin: 0 0 17px; font-size: 1.2rem; }
+    .portrait { width: 16rem; max-width: 100%; height: auto; display: block; }
+    .bio { font-size: 1.1rem; }
+    .bio p { margin: 0 0 1.35em; }
+    main a { color: #0000ee; }
+    main a:visited { color: #0000ee; }
+    main a:hover { color: #dd1212; }
+    .section-heading { font-size: clamp(1.55rem, 2vw, 2rem); line-height: 1.3; font-weight: bold; margin: 1.7em 0 .55em; }
+    .section-heading.alert { color: #be1010; font-style: italic; }
+    .legacy-slot[hidden], .home-slot[hidden] { display: none !important; }
+    .legacy-slot { overflow-wrap: anywhere; }
+    .loading-message { font-size: 1.2rem; }
+    @media (max-width: 1120px) {
+      .header-inner { flex-direction: column; align-items: stretch; justify-content: flex-end; padding: 9px 18px 7px; gap: 6px; min-height: 108px; }
+      .site-title { position: static; transform: none; text-align: center; }
+      .primary-nav { justify-content: flex-end; }
+    }
+    @media (max-width: 650px) {
+      .site-title { font-size: 1.4rem; }
+      .header-inner { padding: 8px 12px; }
+      .primary-nav { gap: 5px; }
+      .primary-nav a { font-size: 1.08rem; padding: 7px 9px; }
+      .page-content { padding-top: 24px; }
+      .home-profile { grid-template-columns: 1fr; gap: 12px; }
+      .portrait { grid-row: 1; width: min(14rem, 60%); }
+    }
+    @media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+  </style>
 </head>
-<!-- The top frame stays visible as the main content is scrolled. -->
-<frameset rows="88,*" frameborder="0" border="0" framespacing="0">
-    <frame src="./menu.htm" name="menuBar" title="Site navigation" scrolling="no" noresize>
-    <frame src="./main.htm" name="main" title="Main content">
-    <noframes>
-        <body>
-            <h1>Hadi Salmasian</h1>
-            <p>Professor of Mathematics, Department of Mathematics and Statistics, University of Ottawa.</p>
-            <p>Research in representation theory and connections to combinatorics, mathematical physics, and category theory.</p>
-            <p><a href="main.htm">Home</a> &middot; <a href="courses.htm">Teaching</a> &middot; <a href="pub.htm">Publications</a> &middot; <a href="resume.htm">Curriculum Vitae</a></p>
-        </body>
-    </noframes>
-</frameset>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1 class="site-title"><a href="index.html" data-home>Hadi Salmasian</a></h1>
+      <nav class="primary-nav" aria-label="Main navigation">
+        <a href="index.html" data-home aria-current="page">Home</a>
+        <a href="courses.htm" data-legacy="courses.htm">Teaching</a>
+        <a href="pub.htm" data-legacy="pub.htm">Publications</a>
+        <a href="resume.htm" data-legacy="resume.htm">My CV</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content" class="page-content">
+    <div id="home-slot" class="home-slot">
+      <section class="home-profile" aria-label="Academic profile and contact">
+        <div class="profile-text">
+          <h2>Professor</h2>
+          <p>Department of Mathematics and Statistics<br>
+            University of Ottawa<br>
+            STEM Complex<br>
+            150 Louis-Pasteur Pvt<br>
+            Ottawa, Ontario<br>
+            Canada K1N 6N5</p>
+          <p><b>Office:</b> <a href="https://www.uottawa.ca/facilities/stem">STEM 639</a><br>
+            <b>Phone:</b> <span style="font-size: 85%">(613) 562-5800 ext. 3514</span><br>
+            <b>&#69;ma&#105;&#108;&#58;</b> <i>&#104;a&#100;i &quot;d&#111;t&quot; &#115;al&#109;a&#115;ia&#110; &quot;&#97;t-sig&#110;&quot; uo&#116;ta&#119;a &quot;&#100;ot&quot; &#99;a</i>
+          </p>
+        </div>
+        <img class="portrait" src="h.jpg" alt="Portrait of Hadi Salmasian" width="256" loading="eager">
+      </section>
+
+      <section class="bio" aria-label="Research and academic activities">
+        <p>&bull; I am a member of the
+          <a href="http://ottawaalgebra.ca"><b>Algebra, Lie Theory, and Representation Theory Group</b></a>
+          at the University of Ottawa, and the
+          <a href="https://nolt.ca/"><b>Network of Ontario Lie Theorists</b></a>.</p>
+
+        <p>&bull; The focus of my research is on representation theory: a central area of algebra, rich in deep and surprising connections to combinatorics, mathematical physics, and category theory. I am also interested in applications of algebraic tools in cryptography and quantum algorithms.</p>
+
+        <p>&bull; I am currently a member of the Editorial Board of the
+          <a href="https://www.cambridge.org/core/journals/canadian-journal-of-mathematics"><b>Canadian Journal of Mathematics/Canadian Mathematical Bulletin</b></a>.</p>
+
+        <p>&bull; To view my short CV, which includes the list of projects of my former students,
+          <a href="resume.htm"><b>click here</b></a>.</p>
+
+        <h2 class="section-heading alert">Upcoming conference:</h2>
+        <p>I am co-organizing a workshop on
+          <a href="https://representationtheory.ca/mmrt2026/">Modern Methods in Representation Theory</a>
+          at the University of Ottawa, July 7&ndash;10, 2026.</p>
+
+        <p><b>I am currently looking for postdoctoral fellows starting on July 2026. Interested applicants should submit their applications on
+          <a href="https://www.mathjobs.org/">MathJobs.Org</a>
+          and include my name as a contact faculty member.</b></p>
+
+        <h2 class="section-heading">Research Projects for Graduate Students:</h2>
+        <p><b>I have openings for Ph.D. and M.Sc. students</b>.
+          Students with a strong undergraduate background, in particular in algebra, are invited to apply.
+          Applicants who are interested in working under my supervision should mention my name on their application as the potential supervisor.
+          Graduate students will be able to choose a project from a broad range of topics.
+          For further information on our graduate program and the application process,
+          <a href="http://www.mathstat.uottawa.ca/programs/grad_en.html"><b>click here</b></a>.</p>
+
+        <p>&bull; If you are interested in doing research under my supervision, I highly recommend that you look at the research project reports written by my former students. You can find these reports on my
+          <a href="resume.htm"><b>Curriculum Vitae</b></a>.</p>
+
+        <p>&bull; If you are considering graduate studies under my supervision, you are welcome to schedule an appointment with me to discuss project options.</p>
+
+        <h2 class="section-heading">Research Projects for Undergraduate Students:</h2>
+        <p><b>I have several research projects for undergraduate students</b>.
+          Students will be supported financially by an
+          <a href="http://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_eng.asp"><b>NSERC Undergraduate Student Research Award</b></a>,
+          the <a href="http://www.research.uottawa.ca/urop/"><b>Undergraduate Research Opportunity Program</b></a>,
+          or the <a href="http://www.admission.uottawa.ca/default.aspx?tabid=2861"><b>Work&ndash;Study Program</b></a>.
+          Depending on the topic of the project, it may consist of one or more of the following: independent reading, writing a report, making a presentation, or running a computer experiment. You can contact me via e-mail for further information.</p>
+
+        <p>&bull; If you are interested in doing research under my supervision, I highly recommend that you look at the research project reports written by my former students. You can find these reports on my
+          <a href="resume.htm"><b>Curriculum Vitae</b></a>.</p>
+      </section>
+    </div>
+    <div id="legacy-slot" class="legacy-slot" hidden aria-live="polite"></div>
+  </main>
+
+  <noscript>
+    <p style="margin: 12px 24px">JavaScript is needed to show other pages inside this layout. You can still follow the Teaching, Publications, and My CV links directly.</p>
+  </noscript>
+  <script>
+    (() => {
+      'use strict';
+      const home = document.getElementById('home-slot');
+      const legacy = document.getElementById('legacy-slot');
+      const nav = document.querySelector('.primary-nav');
+      const allowed = /^[a-zA-Z0-9_./-]+\.html?$/i;
+      const fallbackTitles = { 'courses.htm': 'Teaching', 'pub.htm': 'Publications', 'resume.htm': 'My CV' };
+      let currentRequest = 0;
+      const homeTitle = document.title;
+
+      function normalizedPage(page) {
+        if (!page || page === 'index.html' || page === 'main.htm' || page === 'menu.htm') return '';
+        if (!allowed.test(page)) return '';
+        const url = new URL(page, document.baseURI);
+        // Only load pages from this website; prevent directory traversal.
+        const siteDir = new URL('./', document.baseURI);
+        if (url.origin !== siteDir.origin || !url.pathname.startsWith(siteDir.pathname)) return '';
+        return page;
+      }
+
+      function markActive(page) {
+        for (const a of nav.querySelectorAll('a')) {
+          if ((!page && a.hasAttribute('data-home')) || (page && a.getAttribute('data-legacy') === page)) {
+            a.setAttribute('aria-current', 'page');
+          } else {
+            a.removeAttribute('aria-current');
+          }
+        }
+      }
+
+      // Legacy HTML files are HTML documents in their own right. We fetch their
+      // content and display it in a Shadow DOM, so older page CSS cannot alter
+      // the new header/navigation. No frames or iframes are used.
+      async function display(page, changeUrl) {
+        const normalized = normalizedPage(page);
+        const token = ++currentRequest;
+        if (changeUrl) {
+          const url = new URL('index.html', document.baseURI);
+          if (normalized) url.searchParams.set('page', normalized);
+          history.pushState({ page: normalized }, '', url.pathname + url.search);
+        }
+        markActive(normalized);
+        if (!normalized) {
+          legacy.hidden = true;
+          home.hidden = false;
+          document.title = homeTitle;
+          window.scrollTo(0, 0);
+          return;
+        }
+        home.hidden = true;
+        legacy.hidden = false;
+        legacy.textContent = 'Loading page…';
+        document.title = (fallbackTitles[normalized] || 'Academic page') + ' | Hadi Salmasian';
+
+        try {
+          const response = await fetch(new URL(normalized, document.baseURI), { cache: 'no-cache' });
+          if (!response.ok) throw new Error('HTTP ' + response.status);
+          const pageText = await response.text();
+          if (token !== currentRequest) return;
+          const doc = new DOMParser().parseFromString(pageText, 'text/html');
+          const base = new URL(normalized, document.baseURI);
+          const holder = document.createElement('div');
+          holder.className = 'legacy-host';
+          const shadow = holder.attachShadow({mode: 'open'});
+          const wrap = document.createElement('div');
+          wrap.className = 'legacy-page';
+          wrap.innerHTML = doc.body ? doc.body.innerHTML : pageText;
+          // Resolve links/images against the original document, including any
+          // legacy pages that reside in a subdirectory.
+          for (const el of wrap.querySelectorAll('[href], [src], [poster]')) {
+            for (const attr of ['href', 'src', 'poster']) {
+              const val = el.getAttribute(attr);
+              if (!val || val.startsWith('#') || /^(?:data|javascript|mailto|tel):/i.test(val)) continue;
+              try { el.setAttribute(attr, new URL(val, base).href); } catch (e) { /* leave untouched */ }
+            }
+          }
+          const standard = document.createElement('style');
+          standard.textContent = `
+            :host { display:block; font: inherit; color: #292929; }
+            *, *::before, *::after { box-sizing: border-box; }
+            .legacy-page { line-height:1.6; overflow-wrap:anywhere; }
+            .legacy-page img { max-width:100%; height:auto; }
+            .legacy-page table { max-width:100%; }
+            .legacy-page a { color: #0000ee; }
+            .legacy-page a:hover { color:#dd1212; }
+          `;
+          shadow.appendChild(standard);
+          // Preserve inline styles and linked stylesheets from each legacy page.
+          for (const style of doc.querySelectorAll('head style, head link[rel="stylesheet"]')) {
+            const item = style.cloneNode(true);
+            if (item.hasAttribute('href')) {
+              const href = item.getAttribute('href');
+              if (href) item.setAttribute('href', new URL(href, base).href);
+            }
+            shadow.appendChild(item);
+          }
+          shadow.appendChild(wrap);
+          legacy.replaceChildren(holder);
+          window.scrollTo(0, 0);
+        } catch (error) {
+          if (token !== currentRequest) return;
+          const p = document.createElement('p');
+          const a = document.createElement('a');
+          a.href = new URL(normalized, document.baseURI).href;
+          a.textContent = 'Open ' + (fallbackTitles[normalized] || normalized) + ' directly';
+          p.textContent = 'This page could not be loaded within the new layout. ';
+          p.append(a, '.');
+          legacy.replaceChildren(p);
+        }
+      }
+
+      // Handle links both in the main document and inside the Shadow DOM.
+      document.addEventListener('click', (event) => {
+        if (event.defaultPrevented || event.button !== 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+        const link = event.composedPath().find(el => el instanceof HTMLAnchorElement);
+        if (!link || link.hasAttribute('download') || link.target === '_blank') return;
+        const url = new URL(link.href, document.baseURI);
+        if (url.origin !== location.origin) return;
+        if (url.hash && url.pathname === location.pathname && url.search === location.search) return;
+        const siteDir = new URL('./', document.baseURI);
+        if (!url.pathname.startsWith(siteDir.pathname)) return;
+        const rel = decodeURIComponent(url.pathname.substring(siteDir.pathname.length));
+        if (rel === 'index.html' || rel === '' || rel === 'main.htm' || rel === 'menu.htm') {
+          event.preventDefault();
+          display('', true);
+        } else if (normalizedPage(rel)) {
+          event.preventDefault();
+          display(rel, true);
+        }
+      });
+      addEventListener('popstate', () => display(new URL(location.href).searchParams.get('page'), false));
+      display(new URL(location.href).searchParams.get('page'), false);
+    })();
+  </script>
+</body>
 </html>
