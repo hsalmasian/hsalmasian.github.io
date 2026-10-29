@@ -1,0 +1,89 @@
+<body bgcolor="#fdf5d3">
+<style type="text/css">
+h4.titles{
+position:relative;
+left:.5em;
+}
+p.leftindent{
+font-size: .9em;
+position:relative;left:1em;
+width:98%;
+}
+td.lcell{
+padding-left:1em;
+font-size:.9em;
+}
+li{
+font-size:.9em;
+padding:.65em;
+width:98%;
+}
+</style>
+
+<h4 class="titles">General Description of the Course</h4>
+<p class="leftindent">As one of the most active areas of research in mathematics, the theory of Lie algebras is a branch of algebra with close connections to several other advanced areas of mathematics such as harmonic analysis, differential geometry, number theory, cryptography and combinatorics. Lie algebras have a broad range of applications in other disciplines, including quantum physics and computer science.</p>
+
+<p class="leftindent"> This course serves as an introduction to the most fundamental concepts of Lie algebras. Undergraduate students interested in working on summer research projects or writing an Honours/M.Sc. thesis
+with one of the members of the department's <a href"http://mysite.science.uottawa.ca/algebra//index.html">Algebra, Lie Theory, and Representation Theory Groups</a> will find this course very useful and interesting.  </p>
+
+<h4 class="titles">Official Course Description</h4>
+
+<p class="leftindent">Structure of solvable, nilpotent and semisimple finite dimensional Lie algebras.
+</p>
+
+<h4 class="titles">Prerequisites</h4>
+
+<p class="leftindent">MAT3141
+</p>
+
+<h4 class="titles">Course Text</h4>
+
+<p class="leftindent">
+The lectures are essentially based on the following text:
+<ul>
+<li>
+Karin Erdmann, Mark J. Wildon, <i>Introduction to Lie Algebras</i>, Springer,  2006.
+</li>
+</ul>
+</p>
+<p class="leftindent">This book is the main text for students enrolled in either MAT4142 or MAT5143. 
+You can purchase it at the 
+<a target="_top" href="http://www.bkstr.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?storeId=11012">
+University of Ottawa Bookstore</a>. You can also 
+download it
+from <a href="http://www.springerlink.com/content/978-1-84628-040-5/contents/">
+the publisher's website</a> when you are connected to the internet on campus. (Note that you should download each chapter separately.) 
+</p>
+<p class="leftindent">The additional reading material for students enrolled in MAT5143 is selected from
+the following books:
+<ul>
+<li>
+Theodor Br&ouml;cker, Tammo tom Dieck, <i>Representations of Compact Lie Groups</i>, Springer, 1985.
+</li>
+<li>
+Roger W. Carter, <i>Lie Algebras of Finite and Affine Type</i>, Cambridge, 2005.
+<p class="leftindent"> This book is available online through the university proxies. To read this book, click <a href="http://site.ebrary.com/lib/oculottawa/docDetail.action?docID=10428957", target="_top">here</a>.</p> 
+</li>
+<li>
+James E. Humphreys, <i>Introduction to Lie Algebras and Representation Theory</i>, Springer, New York, 1972.
+</li>
+<li>
+Alexander A. Kirillov, <i>An Introduction to Lie Groups and Lie Algebras</i>, Cambridge, 2008. 
+</li>
+<li>
+Anthony Knapp, <i>Lie Groups Beyond an Introduction</i>, Birkh&auml;user,  2002.
+</li>
+
+
+</ul>
+
+</p>
+
+
+
+
+
+
+
+
+</body>
